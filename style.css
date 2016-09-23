@@ -8,3 +8,17 @@ body {
   width: 960px;
   margin: 20px auto 20px auto;
 }
+h1 {
+  color: red;
+  front-size: 90px;
+}
+#mono {
+  color: blue;
+}
+.todo {
+  color: yellow;
+}
+img {
+  width: 50%;
+  height: 50%;ight
+}
